@@ -1,11 +1,10 @@
-import React from 'react';
-import './assets/styles/custom.scss';
-import './App.css';
+import React from "react";
+import "./assets/styles/custom.scss";
+import "./App.css";
+import Navbar from "components/Navbar";
 
 function App() {
-  return (
-    <h1>Hello Api Catalogo</h1>
-  );
+  return <Navbar />;
 }
 
 export default App;
