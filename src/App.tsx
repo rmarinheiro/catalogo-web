@@ -2,10 +2,10 @@ import React from "react";
 import "./assets/styles/custom.scss";
 import "./App.css";
 import Navbar from "components/Navbar";
-import Home from "pages/Home";
+import Catalog from "pages/catalog";
 
 function App() {
-  return <Home />;
+  return <Catalog />;
 }
 
 export default App;
