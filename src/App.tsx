@@ -1,11 +1,12 @@
 import React from "react";
 import "./assets/styles/custom.scss";
 import "./App.css";
-import Navbar from "components/Navbar";
-import Catalog from "pages/catalog";
+import Routes from "Routes";
 
 function App() {
-  return <Catalog />;
+  return(
+    <Routes/>
+  );
 }
 
 export default App;

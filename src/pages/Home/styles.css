@@ -16,6 +16,7 @@
   flex-direction: column;
   padding: 10px 10px 60px 10px;
   align-items: center;
+
 }
 
 .home-content-container h1 {
@@ -107,6 +108,7 @@
 .home-content-container button {
   width: 100%;
 }
+
 
 @media (min-width: 1200px) {
   .home-card {
