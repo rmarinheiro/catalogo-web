@@ -15,9 +15,11 @@ const Home = () => {
             <h1>Conheça Nosso Catálogo de Produtos</h1>
           </div>
           <p>Ajudaremos você a encontrar os melhores produtos</p>
-          <NavLink to="/products">
-            <ButtonIcon />
-          </NavLink>
+          <div>
+            <NavLink to="/products">
+              <ButtonIcon />
+            </NavLink>
+          </div>
         </div>
 
         <div className="home-image-container">

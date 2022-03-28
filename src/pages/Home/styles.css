@@ -85,6 +85,8 @@
     padding: 125px 20px;
   }
 
+ 
+
   .home-container {
     font-size: 55px;
     padding: 40px;
@@ -105,9 +107,6 @@
   }
 }
 
-.home-content-container button {
-  width: 100%;
-}
 
 
 @media (min-width: 1200px) {
